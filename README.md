@@ -1,6 +1,6 @@
 ![Front End Developer](https://media-exp2.licdn.com/dms/image/C4D16AQERfcVyytkOKA/profile-displaybackgroundimage-shrink_200_800/0/1655039915240?e=1660780800&v=beta&t=ruxNRzr_tYc1rg3JrhOjd1rcb8l2kSsKd5TRuKquouE)
 
-## PARIMAL HALDER
+# PARIMAL HALDER
 ### Front End Developer
 
 
