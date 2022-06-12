@@ -1,5 +1,5 @@
-### Hi there 👋, PARIMAL HALDER
-#### Front End Developer
+#Hi there 👋, PARIMAL HALDER
+## Front End Developer
 ![Front End Developer](https://media-exp2.licdn.com/dms/image/C4D16AQERfcVyytkOKA/profile-displaybackgroundimage-shrink_200_800/0/1655039915240?e=1660780800&v=beta&t=ruxNRzr_tYc1rg3JrhOjd1rcb8l2kSsKd5TRuKquouE)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
